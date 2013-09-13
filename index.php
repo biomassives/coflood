@@ -23,6 +23,21 @@
         <iframe src=http://frontrangeflood.crowdmap.com width=900 height=500></iframe>
         <BR>
         <a href=http://frontrangeflood.crowdmap.com>full screen</a>
+        
+        
+        <BR><BR>
+#coflood instagram<BR>
+<iframe scr="http://www.gramfeed.com/instagram/tags#coflood"></iframe>
+
+
+<BR><BR>
+#boulderflood instagram<BR>
+<iframe scr="http://www.gramfeed.com/instagram/tags#boulderflood"></iframe>
+
+
+
+        
+        
       </div>
       <div class="span4">
         <a class="twitter-timeline"  href="https://twitter.com/search?q=%23coflood"  data-widget-id="378577294802956288">Tweets about "#coflood"</a>
