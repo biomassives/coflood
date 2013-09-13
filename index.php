@@ -3,7 +3,10 @@
 <head>
   <meta charset="utf-8">
   <title>Scott Rainey :: 2013 Curriculum Vitae</title>
-  <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
 </head>
 <body>
   <section class="container">
